@@ -7,7 +7,8 @@ Car Parking Space Counter + Detector using OpenCV With Basic Image Processing | 
 
 
 
-https://github.com/Maliud/python-opencv-otopark-alan-sayac-/assets/72108306/6bf12a0f-6a1e-4672-8cb0-addd1270be28
+
+https://github.com/Maliud/python-opencv-otopark-alan-sayac-/assets/72108306/ca9a2cdc-c024-4ce2-a000-6379e019cc82
 
 
 
